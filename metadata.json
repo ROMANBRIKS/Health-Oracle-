@@ -1,0 +1,6 @@
+{
+  "name": "Health Intelligence Mega-Oracle (HIMO)",
+  "description": "The authoritative AI engine for 2026-2060 US Health & Medical Intelligence, auditing ACA subsidies, Medicare caps, and HSA/FSA tax strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Health Auditing", "Premium Shock Calculation", "Medicare Part D Visualization", "HSA Tax Sync"]
+}
